@@ -223,10 +223,7 @@ export default function HeaderLinks() {
           classes={{ tooltip: classes.tooltip }}
         >
           <a href={"https://sonhai.web.app/"} className={classes.navLink}>
-            <Rotate90DegreesCcwIcon
-              style={iconStyle}
-              className={"myfavoritetracks"}
-            />
+            <Rotate90DegreesCcwIcon style={iconStyle} className={"rotate"} />
           </a>
         </Tooltip>
       </ListItem>
