@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "file": "material-kit-react.css",
+  "sources": [
+    "../scss/material-kit-react.scss",
+    "../scss/core/_variables.scss",
+    "../scss/core/variables/_colors.scss",
+    "../scss/core/variables/_shadow.scss",
+    "../scss/core/variables/_bootstrap-material-design-base.scss",
+    "../scss/core/variables/_brand.scss",
+    "../scss/core/variables/_functions.scss",
+    "../scss/core/variables/_variables.scss",
+    "../scss/core/variables/_bootstrap-material-design.scss",
+    "../scss/core/_mixins.scss",
+    "../scss/core/mixins/_colored-shadows.scss",
+    "../scss/core/_misc.scss",
+    "../scss/plugins/_plugin-nouislider.scss",
+    "../scss/plugins/_plugin-react-datetime.scss",
+    "../scss/plugins/_plugin-react-slick.scss"
+  ],
+  "names": [],
+  "mappings": ""
+}
