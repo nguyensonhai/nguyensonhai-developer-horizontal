@@ -1,28 +1,27 @@
-@media (min-width: 1800px) {
-  #slider-image-health {
-    width: 40vw;
-    height: 660px;
-    position: relative;
-    perspective: 1000px;
-    transform-style: preserve-3d;
-  }
-  .slider-container-health {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-  #slider-image-health label {
-    margin: auto;
-    width: 320px;
-    height: 650px;
-    border-radius: 10px;
-    position: absolute;
-    left: 0;
-    right: 0;
-    cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
-      pointer;
-    transition: transform 0.4s ease;
-  }
+#slider-image-health {
+  width: 40vw;
+  height: 660px;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
 }
+.slider-container-health {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#slider-image-health label {
+  margin: auto;
+  width: 320px;
+  height: 650px;
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
+    pointer;
+  transition: transform 0.4s ease;
+}
+
 .container-info {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -122,31 +121,30 @@ html {
   background-image: url(../../img/apps/ezhealth/fitness.png);
 }
 
-@media (min-width: 1800px) {
-  #slider-image-kidel {
-    width: 40vw;
-    height: 660px;
-    position: relative;
-    perspective: 1000px;
-    transform-style: preserve-3d;
-  }
-  .slider-container-kidel {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-  #slider-image-kidel label {
-    margin: auto;
-    width: 320px;
-    height: 650px;
-    border-radius: 10px;
-    position: absolute;
-    left: 0;
-    right: 0;
-    cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
-      pointer;
-    transition: transform 0.4s ease;
-  }
+#slider-image-kidel {
+  width: 40vw;
+  height: 660px;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
 }
+.slider-container-kidel {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#slider-image-kidel label {
+  margin: auto;
+  width: 320px;
+  height: 650px;
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
+    pointer;
+  transition: transform 0.4s ease;
+}
+
 .container-info {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -246,31 +244,30 @@ html {
   background-image: url(../../img/apps/ezkidel/5.png);
 }
 
-@media (min-width: 1800px) {
-  #slider-image-explore {
-    width: 40vw;
-    height: 660px;
-    position: relative;
-    perspective: 1000px;
-    transform-style: preserve-3d;
-  }
-  .slider-container-explore {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-  #slider-image-explore label {
-    margin: auto;
-    width: 320px;
-    height: 650px;
-    border-radius: 10px;
-    position: absolute;
-    left: 0;
-    right: 0;
-    cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
-      pointer;
-    transition: transform 0.4s ease;
-  }
+#slider-image-explore {
+  width: 40vw;
+  height: 660px;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
 }
+.slider-container-explore {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#slider-image-explore label {
+  margin: auto;
+  width: 320px;
+  height: 650px;
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  cursor: url(https://firebasestorage.googleapis.com/v0/b/nguyensonhai-developer.appspot.com/o/cursors%2Flink.cur?alt=media&token=aa6c3a1b-3068-4e8f-8e94-43adad7bb033),
+    pointer;
+  transition: transform 0.4s ease;
+}
+
 .container-info {
   padding-top: 10px;
   padding-bottom: 10px;

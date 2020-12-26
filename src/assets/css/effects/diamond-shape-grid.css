@@ -1,32 +1,31 @@
-@media (min-width: 1800px) {
-  .kidel-feature-container {
-    width: 700px;
-    height: 250px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    padding-left: 80px;
-  }
-  .kidel-fearture-nav {
-    position: relative;
-    margin: auto;
-    padding: 0;
-    width: 75%;
-    height: 150px;
-  }
-  .kidel-fearture-nav li {
-    list-style: none;
-    position: absolute;
-    width: 120px;
-    height: 120px;
-    background: 0 0;
-    transition: 0.5s;
-    margin: -25px;
-    overflow: hidden;
-    opacity: 1;
-  }
+.kidel-feature-container {
+  width: 700px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-left: 80px;
 }
+.kidel-fearture-nav {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 75%;
+  height: 150px;
+}
+.kidel-fearture-nav li {
+  list-style: none;
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  background: 0 0;
+  transition: 0.5s;
+  margin: -25px;
+  overflow: hidden;
+  opacity: 1;
+}
+
 .kidel-fearture-nav li:hover {
   opacity: 1;
 }

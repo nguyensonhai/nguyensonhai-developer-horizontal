@@ -1,70 +1,69 @@
-@media (min-width: 1800px) {
-  #f-km-mobile {
-    display: none;
-  }
-  #f-km-web {
-    display: flex;
-  }
-  #s-km-mobile {
-    display: none;
-  }
-  #s-km-web {
-    display: flex;
-  }
-  #r-km-mobile {
-    display: none;
-  }
-  #r-km-web {
-    display: flex;
-  }
-  .project-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    margin: 20px auto;
-  }
-  .project-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .project-logo {
-    width: 220px;
-    height: 220px;
-  }
-  .project-name {
-    font-size: 22px;
-    line-height: 25px;
-    font-weight: 900;
-    letter-spacing: 0.15em;
-    vertical-align: middle;
-    color: #121212;
-    font-family: Alata;
-    margin-top: 20px;
-    text-align: center;
-  }
-  .project-decr {
-    position: relative;
-    vertical-align: middle;
-    font-family: Montserrat;
-    font-size: 18px;
-    color: #212121;
-    text-align: center;
-    padding-top: 20px;
-    width: 70%;
-  }
-  .line-projects {
-    margin: 100px auto 100px auto;
-    width: 75%;
-    border-color: #777;
-    border-style: solid;
-    align-self: center;
-    border-top-width: 0;
-  }
+#f-km-mobile {
+  display: none;
 }
+#f-km-web {
+  display: flex;
+}
+#s-km-mobile {
+  display: none;
+}
+#s-km-web {
+  display: flex;
+}
+#r-km-mobile {
+  display: none;
+}
+#r-km-web {
+  display: flex;
+}
+.project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 20px auto;
+}
+.project-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.project-logo {
+  width: 220px;
+  height: 220px;
+}
+.project-name {
+  font-size: 22px;
+  line-height: 25px;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  vertical-align: middle;
+  color: #121212;
+  font-family: Alata;
+  margin-top: 20px;
+  text-align: center;
+}
+.project-decr {
+  position: relative;
+  vertical-align: middle;
+  font-family: Montserrat;
+  font-size: 18px;
+  color: #212121;
+  text-align: center;
+  padding-top: 20px;
+  width: 70%;
+}
+.line-projects {
+  margin: 100px auto 100px auto;
+  width: 75%;
+  border-color: #777;
+  border-style: solid;
+  align-self: center;
+  border-top-width: 0;
+}
+
 .projects-km-text {
   font-family: Montserrat;
   font-size: 20px;

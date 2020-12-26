@@ -13,6 +13,7 @@ import FavoriteIcon from "@material-ui/icons/Favorite";
 import CreateIcon from "@material-ui/icons/Create";
 import DashboardIcon from "@material-ui/icons/Dashboard";
 import MusicNoteIcon from "@material-ui/icons/MusicNote";
+import Rotate90DegreesCcwIcon from "@material-ui/icons/Rotate90DegreesCcw";
 // core components
 import Button from "components/CustomButtons/Button.js";
 
@@ -212,6 +213,21 @@ export default function HeaderLinks() {
           >
             <i className={classes.socialIcons + " fab fa-google"} />
           </Button>
+        </Tooltip>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Tooltip
+          id="rotate"
+          title="Rotate page"
+          placement={window.innerWidth > 959 ? "top" : "left"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <a href={"https://sonhai.web.app/"} className={classes.navLink}>
+            <Rotate90DegreesCcwIcon
+              style={iconStyle}
+              className={"myfavoritetracks"}
+            />
+          </a>
         </Tooltip>
       </ListItem>
     </List>

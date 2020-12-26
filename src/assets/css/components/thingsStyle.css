@@ -1,56 +1,55 @@
-@media (min-width: 1800px) {
-  .things-container {
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    margin: auto;
-  }
-  .dev-container {
-    width: 280px;
-    height: 550px;
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    align-items: center;
-    justify-content: flex-start;
-  }
-  .dev-img {
-    width: 170px;
-    height: 170px;
-  }
-  .dev-span {
-    position: relative;
-    font-size: 20px;
-    line-height: 18px;
-    font-weight: 900;
-    letter-spacing: 0.15em;
-    vertical-align: middle;
-    color: #121212;
-    font-family: Alata;
-  }
-  .dev-sub-span {
-    position: relative;
-    vertical-align: middle;
-    font-family: Montserrat;
-    font-size: 18px;
-    color: #212121;
-    padding-top: 10px;
-  }
-  .dev-second-span {
-    margin-top: 20px;
-    position: relative;
-    font-size: 20px;
-    line-height: 18px;
-    font-weight: 400;
-    vertical-align: middle;
-    font-family: Alata;
-    color: #212121;
-  }
-  .line {
-    display: none;
-  }
+.things-container {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: auto;
 }
+.dev-container {
+  width: 280px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dev-img {
+  width: 170px;
+  height: 170px;
+}
+.dev-span {
+  position: relative;
+  font-size: 20px;
+  line-height: 18px;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  vertical-align: middle;
+  color: #121212;
+  font-family: Alata;
+}
+.dev-sub-span {
+  position: relative;
+  vertical-align: middle;
+  font-family: Montserrat;
+  font-size: 18px;
+  color: #212121;
+  padding-top: 10px;
+}
+.dev-second-span {
+  margin-top: 20px;
+  position: relative;
+  font-size: 20px;
+  line-height: 18px;
+  font-weight: 400;
+  vertical-align: middle;
+  font-family: Alata;
+  color: #212121;
+}
+.line {
+  display: none;
+}
+
 .blue {
   color: #369fd4;
 }

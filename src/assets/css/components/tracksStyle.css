@@ -18,12 +18,11 @@
   height: 100%;
   position: absolute;
 }
-@media (min-width: 1800px) {
-  .embed-spotify-container {
-    width: 100%;
-    margin: auto;
-  }
-  .iframe-spofity {
-    border-radius: 15px;
-  }
+
+.embed-spotify-container {
+  width: 100%;
+  margin: auto;
+}
+.iframe-spofity {
+  border-radius: 15px;
 }

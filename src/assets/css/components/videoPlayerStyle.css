@@ -1,12 +1,10 @@
-@media (min-width: 1800px) {
-  .player-wrapper {
-    width: 100%;
-    height: auto;
-    margin: 30px auto;
-    position: relative;
-  }
-  .react-player {
-    border-radius: 40px;
-    overflow: hidden;
-  }
+.player-wrapper {
+  width: 100%;
+  height: auto;
+  margin: 30px auto;
+  position: relative;
+}
+.react-player {
+  border-radius: 40px;
+  overflow: hidden;
 }
